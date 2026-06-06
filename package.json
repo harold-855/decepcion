@@ -1,0 +1,15 @@
+{
+  "name": "performancetestjs-pdm3-c5",
+  "version": "1.0.0",
+  "description": "This project involves developing a single-page application (SPA) using JavaScript, Vite, Tailwind CSS, and a JSON server.",
+  "main": "vite.config.js",
+  "scripts": {
+   "backend": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
