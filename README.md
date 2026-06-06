@@ -9,20 +9,6 @@ This project involves developing a single-page application (SPA) using JavaScrip
 
 
 
-The main objective is to assess knowledge related to:
-
-- SPA architecture
-- Authentication
-- Role management
-- Route protection
-- Session persistence
-- API consumption
-- DOM manipulation
-- Code modularization
-- Development best practices
-
-
-
 ---
 
 ## Context of the problem
